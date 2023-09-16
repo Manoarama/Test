@@ -1,2 +1,3 @@
 # Test
-First git Repo
+This is my first git Repositiry
+Author-Manoarama
